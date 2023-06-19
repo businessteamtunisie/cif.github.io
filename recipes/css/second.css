@@ -1,0 +1,41 @@
+h1{
+    color: #7f5c5f;
+}
+#titre{
+    text-align: center;
+}
+#arrow1{
+    font-size: xx-large;
+    text-align: right;
+}
+#arrow2{
+    font-size: 200%;
+    text-align: right;
+}
+#all{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+#titre{
+    text-align: center;
+}
+.thecontent{
+    display: flex;
+    flex-direction: row;
+}
+#ex {
+    justify-content: center;
+    text-align: center;
+}
+h1{
+    font-size: xx-large;
+}
+#pic{
+    text-align: center;
+
+    height: 30%;
+    size: 30%;
+    width: 30%;
+}
